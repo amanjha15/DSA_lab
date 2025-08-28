@@ -1,2 +1,0 @@
-DSA LAB ASSIGNMENT
-Q.3 answer is 10000 
